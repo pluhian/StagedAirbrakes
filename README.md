@@ -1,2 +1,2 @@
 # StagedAirbrakes
-Makes the A.I.R.B.R.A.K.E.S part in Kerbal Space Program stageable
+In the title, Staged Airbrakes for KSP. Has a toggeable enable or disable decoupling button (whether you want it staged or not), and etc. Pretty self-explanatory.
